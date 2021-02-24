@@ -38,6 +38,3 @@ jspm_packages
 
 # vscode config
 .vscode
-
-# default config
-conf/default.js
